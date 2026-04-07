@@ -1,6 +1,6 @@
 # O_1_Vector
 O_1_Vector is a Vector data structure implementation with constant time read write update
-remove in exchange for some space complexity.
+remove without sacrificing data order in exchange for some space complexity.
 
 the data structure consists of 3 vector Vec<Data>, Vec<Id>, Vec<Index> of the same length.- 
 
